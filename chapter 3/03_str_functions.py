@@ -1,0 +1,11 @@
+name="danish raza"
+print(len(name))
+print(name.endswith("ish"))
+print(name.startswith("dan"))
+print(name.capitalize())
+print(name.upper())
+print(name.lower())
+print(name.title())
+print(name.swapcase())
+print(name.replace("raza","ali"))
+print(name.count("a"))
