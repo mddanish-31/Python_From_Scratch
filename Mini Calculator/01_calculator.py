@@ -1,0 +1,8 @@
+n=int(input("enter the 1st number : "))
+m=int(input("enter the 2nd number : "))
+print("The value after the addition of",n, "+" ,m, "is: ",n+m)
+print("The value after the substraction of",n, "-" ,m, "is: ",n-m)
+print("The value after the division of",n, "/" ,m, "is: ",n/m)
+print("The value after the multiplication of",n, "*" ,m, "is: ",n*m)
+print("The value after the modulas of",n, "%" ,m, "is: ",n%m)
+print("The value after the exponential of",n, "**" ,m, "is: ",n**m)
