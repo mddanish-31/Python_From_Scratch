@@ -8,5 +8,11 @@ marks={
 # print(marks.items()) #prints the dict of items
 # print(marks.keys()) #prints the keys name from the dict
 # print(marks.values(),type(marks)) #prints the values from the dict
-marks.update({"Danish":99})
-print(marks)
+# marks.update({"Danish":99})
+# print(marks)
+
+# print(marks.get("Danish"))    #prints none
+# print(marks["Danish"])        # return an error 
+
+print(marks.get("Danish2")) #prints none
+print(marks["Danish2"])     # return an error
